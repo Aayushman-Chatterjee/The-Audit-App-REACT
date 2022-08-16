@@ -69,15 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
 
-
-#Getting Started
-
--> Run the command `npm install` to install node modules
-
--> Run the command `npm start` to start application on localhost:3000
-
--> Run the command (in a parallel command prompt) `npm run rest-server` to run the db.json file 
-
--> Run the command (in a parallel command prompt) `npm run build storybook` to build the storybook
-
--> Run the command (in a parallel command prompt) `npm run storybook` to run the storybook to see all the elements individually.
+Hosted Domain [https://famous-donut-089f37.netlify.app/]
